@@ -7,3 +7,9 @@
 <p align="center">
     <img src="https://github.com/annabond1001/neural-style-transfer/blob/master/demo.jpg?raw=true", width="950">
 </p>
+<p align="center">
+    <img src="https://github.com/annabond1001/neural-style-transfer/blob/master/demo1.jpg?raw=true", width="950">
+</p>
+<p align="center">
+    <img src="https://github.com/annabond1001/neural-style-transfer/blob/master/demo2.jpg?raw=true", width="950">
+</p>
